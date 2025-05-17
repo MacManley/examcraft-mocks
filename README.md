@@ -39,6 +39,16 @@ https://examcraft.ie/taxonomy/term/{ID}
 |Constructions|-|-|89|
 |Engineering|-|-|90|
 |Technology|-|-|91|
-
-> Junior Cycle, LCA, As Gaeilge Papers coming soon
-
+|Politics|-|-|377|
+|Computer Science|-|-|400|
+|PE|-|-|401|
+|Gaeilge|Paper|B|410|
+|Gaeilge|Listening|B|411|
+|English|-|B|412|
+|Maths|-|B|413|
+|Geography|-|B|414|
+|French|Paper|B|415|
+|French|Listening|B|416|
+|Biology|-|B|417|
+|Business|-|B|418|
+|Home Economics|-|B|419|
