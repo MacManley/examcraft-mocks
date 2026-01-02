@@ -1,5 +1,5 @@
 # examcraft-mocks
-A list of past examcraft mocks from their own website
+A list of past Leaving Cert ExamCraft mocks from their own website
 
 In order to find the link to a subjects past Examcraft mocks, enter the corresponding ID into the following link
 
